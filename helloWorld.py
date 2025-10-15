@@ -1,1 +1,1 @@
-print("Hi Kilo3672!")
+print("Hi Kilo!")
